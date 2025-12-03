@@ -1,3 +1,4 @@
 {
-    "jupyter.interactiveWindow.notebookRepl": true
+    "jupyter.interactiveWindow.notebookRepl": true,
+    "git.ignoreLimitWarning": true
 }
